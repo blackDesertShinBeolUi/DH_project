@@ -6,9 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="img/logo.jpg" />
-      
-          github pages hosting success....
-        
       </header>
     </div>
   );
